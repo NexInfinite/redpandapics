@@ -9,11 +9,17 @@ The live version of redpanda.pics running of my server.
 
 ### Endpoints
 > GET / => Get a random red panda from the cdn.
+
 > GET /boop => Get a random red panda boop!
+
 > GET /tired => Get a yawning/sleeping red panda.
+
 > GET /fact => Get a random fact about redpandas.
+
 > GET /tall => Get a random image of a red panda standing up.
+
 > GET /random => Get a random red panda from the cdn, but it comes as a static image.
+
 > GET /endpoints => Get a list of all endpoints with descriptions and methods.
 
 ### Todo
@@ -29,5 +35,7 @@ See random red pandas
 
 ### Endpoints
 > GET / => Get a random red panda from the cdn.
+
 > GET /upload?token=TOKEN => Upload a photo
+
 > GET /random => Get a random red panda from the cdn, but it comes as a static image.
