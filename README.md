@@ -1,5 +1,5 @@
 # [DEPRECIATED] Red panda pics
-Was an old api to get a random image of a redpanda (as they were my favourite animal at one point), since has been deleted and the domain redpanda.pics has been taken by someone else; this is not me. Was a fun mini-project.
+Was an old api to get a random image of a redpanda (as they were my favourite animal at one point), since has been deleted and the domain redpanda.pics has been taken by someone else; this is not me. Was a fun mini-project. Please note that **I have no licesnses to any of the images and therefore they have all been deleted from the cdn, to add images please add them to the cdn folder or respective folders in rust**
 
 # Rust
 The live version of redpanda.pics running of my server.
