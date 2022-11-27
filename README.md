@@ -1,8 +1,5 @@
-# Red panda pics
-> New rust version out now
-
-https://redpanda.pics is a rest api to get random images of red pandas from our cdn. There are 2 versions of redpanda.pics, rust and python. 
-Rust is the newer version with more endpoints and is what is live right now but python has upload features which are yet available on rust. (Coming soon)
+# [DEPRECIATED] Red panda pics
+Was an old api to get a random image of a redpanda (as they were my favourite animal at one point), since has been deleted and the domain redpanda.pics has been taken by someone else; this is not me. Was a fun mini-project.
 
 # Rust
 The live version of redpanda.pics running of my server.
